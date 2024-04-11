@@ -1,6 +1,6 @@
 <?php 
-$ID = "#Id"; //آیدی عددیت
-$TOKEN = "#Token"; //توکن
+$ID = "6131575950"; //آیدی عددیت
+$TOKEN = "6786159248:AAHAUH7OPeSSzwf5wesggK2sEf04ge7cvjs"; //توکن
 
 
 
